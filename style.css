@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+}
+.main-wrapper {
+    background-color: aqua;
+    height: 100vh;
+    background-image: 
+    linear-gradient(to bottom, #000000bb, #00000022, #000000bb),
+    url('http://picsum.photos/1000');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:antiquewhite;
+    font-size: 60px;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+}
